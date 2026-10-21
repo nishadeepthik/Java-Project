@@ -1,4 +1,4 @@
-package Daywise_class_notes;
+package Daywise_Assignment;
 
 public class Operators_Assignment
 {
